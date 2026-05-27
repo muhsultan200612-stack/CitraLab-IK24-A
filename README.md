@@ -1,5 +1,5 @@
 # CitraLab — Aplikasi Pengolahan Citra Digital
-### Proyek Akhir IK23
+### Proyek Akhir IK24
 
 ---
 
